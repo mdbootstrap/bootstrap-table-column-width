@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-table-column-width",
+  "version": "1.0.0",
+  "description": "Responsive Table column width built with Bootstrap 5. Use one of the following classes to manipulate the width of the columns.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-table-column-width.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-table-column-width",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-table-column-width/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/table-column-width/"
+}
